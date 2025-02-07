@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4ba5613-7332-4796-8123-bb80c0469fa1)---
+---
 permalink: /
 title: "Welcome to Shuyong Gao's homepage"
 author_profile: true
