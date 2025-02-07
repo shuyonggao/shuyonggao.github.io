@@ -49,3 +49,11 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
+
+Preprints/Manuscripts
+======
+![image](https://github.com/user-attachments/assets/25c9445c-a176-45f0-945a-ff72cc9aa428)
+
+Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context 
+
+Yicheng Song, Shuyong Gao, Haozhe Xing, Yiting Cheng, Yan Wang, Wenqiang Zhang
