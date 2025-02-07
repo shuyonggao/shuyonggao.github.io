@@ -17,8 +17,7 @@ Preprints/Manuscripts
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="![image](https://github.com/user-attachments/assets/3f95127c-a75e-4f18-9fe5-3b280a689c70)
-" width="350"/>
+      <img src="https://github.com/user-attachments/assets/3f95127c-a75e-4f18-9fe5-3b280a689c70" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context </span><br>
@@ -29,7 +28,3 @@ Preprints/Manuscripts
   </tr> 
 </table>
 
-
-Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context 
-
-Yicheng Song, Shuyong Gao, Haozhe Xing, Yiting Cheng, Yan Wang, Wenqiang Zhang
