@@ -9,6 +9,8 @@ redirect_from:
 
 I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>.
 
+I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>.
+
 <!--
 I am currectly a postdoc researcher at <a href="https://insait.ai/">INSAIT</a>, Sofia, Bulgaria, working with Prof. <a href="https://insait.ai/prof-luc-van-gool/">Luc Van Gool</a> and Dr. <a href="https://insait.ai/dr-danda-paudel/">Danda Paudel</a>. Previously, I was a postdoc researcher at <a href="https://vision.ee.ethz.ch/">Computer Vision Lab (CVL)</a>, ETH Zürich,  Switzerland, where I was also fortunate to be mentored by Prof. <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Luc Van Gool</a>. 
 
