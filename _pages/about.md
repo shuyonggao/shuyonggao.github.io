@@ -23,7 +23,7 @@ My research topics are computer vision and deep learning. I mainly focus on tran
 Preprints/Manuscripts
 ------
 
-<table style="width:100%">
+<table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%">
       <img src="https://github.com/user-attachments/assets/3f95127c-a75e-4f18-9fe5-3b280a689c70" width="350"/>
