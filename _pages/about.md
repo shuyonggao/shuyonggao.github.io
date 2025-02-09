@@ -86,7 +86,7 @@ Selected Publications
             <span style="font-size:18px">Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context </span><br>
             <span style="font-weight:normal;font-size:16px"> Yicheng Song, <b>Shuyong Gao<sup>✉️</sup></b>, Haozhe Xing, and Yiting Cheng, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>ACM International Conference on Multimedia (ACM MM), 2023</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2310.09533">Paper</a>][<a href="https://github.com/rejoicesyc/STC"> Code </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2310.09533">Paper</a>][<a href="https://github.com/rejoicesyc/STC">Code</a>]</span>
     </th>
   </tr> 
 </table>
@@ -100,7 +100,7 @@ Selected Publications
             <span style="font-size:18px">Go Closer to See Better: Camouflaged Object Detection via Object Area Amplification and Figure-Ground Conversion </span><br>
             <span style="font-weight:normal;font-size:16px"> Haozhe Xing, <b>Shuyong Gao<sup>✉️</sup></b>, Xujun Wei, Hao Tang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), 2022</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10065514">Paper</a>][<a href="https://github.com/Haozhe-Xing/SARNet"> Code </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10065514">Paper</a>][<a href="https://github.com/Haozhe-Xing/SARNet">Code</a>]</span>
     </th>
   </tr> 
 </table>
@@ -114,7 +114,7 @@ Selected Publications
             <span style="font-size:18px">Weakly Supervised Video Salient Object Detection via Point Supervision </span><br>
             <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Haozhe Xing, Wei Zhang, Yan Wang, Qianyu Guo, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>ACM International Conference on Multimedia (ACM MM), 2022</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2207.07269">Paper</a>][<a href="https://github.com/shuyonggao/PVSOD"> Code </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2207.07269">Paper</a>][<a href="https://github.com/shuyonggao/PVSOD">Code</a>]</span>
     </th>
   </tr> 
 </table>
@@ -128,7 +128,7 @@ Selected Publications
             <span style="font-size:18px">Weakly Supervised Salient Object Detection Using Point Supervision </span><br>
             <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Wei Zhang<sup>✉️</sup>, Yan Wang, Qianyu Guo, Chenglong Zhang, Yangji He, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>AAAI Conference on Artificial Intelligence (AAAI), 2022</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2203.11652">Paper</a>][<a href="https://github.com/shuyonggao/PSOD"> Code </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2203.11652">Paper</a>][<a href="https://github.com/shuyonggao/PSOD">Code</a>]</span>
     </th>
   </tr> 
 </table>
