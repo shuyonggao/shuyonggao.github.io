@@ -39,7 +39,7 @@ Preprints/Manuscripts
             <span style="font-size:18px">A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection </span><br>
             <span style="font-weight:normal;font-size:16px">Tsui Qin Mok, <b>Shuyong Gao<sup>📧</sup></b>, Haozhe Xing, Miaoyang He, Yan Wang, Wenqiang Zhang<sup>📧</sup></span><br>
             <span style="font-weight:normal;font-size:16px">arXiv preprint, 2024, </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2501.06038">Paper</a>][<a> href="https://arxiv.org/pdf/2501.06038" Code</a>][<a> Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2501.06038">Paper</a>][<a href="https://github.com/shuyonggao/HPGT_WSCOD"> Code</a>][<a> Project Page </a>]</span>
     </th>
   </tr> 
 </table>
