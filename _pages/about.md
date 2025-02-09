@@ -31,8 +31,6 @@ Preprints/Manuscripts
 </table>
 
 
-https://shuyonggao.github.io/MSVCOD/
-
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%" style="border: none;">
