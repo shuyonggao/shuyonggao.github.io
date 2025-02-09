@@ -106,6 +106,19 @@ Selected Publications
   </tr> 
 </table>
 
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/point_vcod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Weakly Supervised Video Salient Object Detection via Point Supervision </span><br>
+            <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Haozhe Xing, Wei Zhang, Yan Wang, Qianyu Guo, Wenqiang Zhang<sup>✉️</sup></span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>ACM International Conference on Multimedia (ACM MM), 2022</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2207.07269">Paper</a>][<a href="https://github.com/shuyonggao/PVSOD"> Code </a>]</span>
+    </th>
+  </tr> 
+</table>
 
 Research Interests
 ------
