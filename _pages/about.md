@@ -19,7 +19,7 @@ Preprints/Manuscripts
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%" style="border: none;">
-      <img src="../paper_images/P3S-Diffusion.png" width="350"/>
+      <img src="../paper_images/msvcod.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection </span><br>
