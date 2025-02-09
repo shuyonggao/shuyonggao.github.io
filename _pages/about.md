@@ -95,7 +95,7 @@ Selected Publications
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%" style="border: none;">
-      <img src="../paper_images/top_down_sod.png" width="350"/>
+      <img src="../paper_images/go_closer.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">Go Closer To See Better: Feature SuperResolution Network for Camouflaged Object Detection </span><br>
