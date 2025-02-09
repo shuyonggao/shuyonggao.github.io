@@ -22,6 +22,23 @@ Preprints/Manuscripts
       <img src="../paper_images/P3S-Diffusion.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection </span><br>
+            <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Yuang Feng, Qishan Wang, Lingyi Hong, Xinyu Zhou, Liu Fei, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>arXiv preprint, 2024 </em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a>Code</a>][<a href="https://shuyonggao.github.io/MSVCOD"/> Project Page </a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+https://shuyonggao.github.io/MSVCOD/
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/P3S-Diffusion.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision </span><br>
             <span style="font-weight:normal;font-size:16px">Junjie Hu, <b>Shuyong Gao<sup>✉️</sup></b>, Lingyi Hong, Qishan Wang, Yuzhou Zhao, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>arXiv preprint, 2024 </em> </span><br>
