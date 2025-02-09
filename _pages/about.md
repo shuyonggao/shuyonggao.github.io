@@ -24,9 +24,9 @@ Preprints/Manuscripts
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision </span><br>
-            <span style="font-weight:normal;font-size:16px">Junjie Hu, <b>Shuyong Gao<sup>📧</sup></b>, Lingyi Hong, Qishan Wang, Yuzhou Zhao, Yan Wang, Wenqiang Zhang📧</span><br>
+            <span style="font-weight:normal;font-size:16px">Junjie Hu, <b>Shuyong Gao<sup>📧</sup></b>, Lingyi Hong, Qishan Wang, Yuzhou Zhao, Yan Wang, Wenqiang Zhang<sup>📧</sup></span><br>
             <span style="font-weight:normal;font-size:16px">The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2408.09110">Paper</a>][<a href="https://github.com/jaychempan/LAE-DINO">Code</a>][<a href="https://jianchengpan.space/LAE-website/index.html">Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2412.19533">Paper</a>][<a>Code</a>][<a> Project Page </a>]</span>
     </th>
   </tr> 
 </table>
