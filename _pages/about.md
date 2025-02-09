@@ -11,6 +11,14 @@ I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a 
 
 <!--
 
+
+News and Olds
+------
+<ul>
+  <li>[12/2024] One paper is accepted by AAAI2025. </li>
+
+</ul>
+
 --> 
 
 Preprints
@@ -134,6 +142,4 @@ Selected Publications
 </table>
 
 
-News and Olds
-------
 
