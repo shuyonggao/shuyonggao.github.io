@@ -92,7 +92,19 @@ Selected Publications
   </tr> 
 </table>
 
-
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/top_down_sod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Go Closer To See Better: Feature SuperResolution Network for Camouflaged Object Detection </span><br>
+            <span style="font-weight:normal;font-size:16px"> Haozhe Xing, <b>Shuyong Gao<sup>✉️</sup></b>, Xujun Wei, Hao Tang, Wenqiang Zhang<sup>✉️</sup></span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), 2022</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10065514">Paper</a>][<a href="https://github.com/Haozhe-Xing/SARNet"> Code </a>]</span>
+    </th>
+  </tr> 
+</table>
 
 
 Research Interests
