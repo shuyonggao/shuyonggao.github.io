@@ -119,8 +119,20 @@ Selected Publications
   </tr> 
 </table>
 
-Research Interests
-------
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/point_sod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Weakly Supervised Salient Object Detection Using Point Supervision </span><br>
+            <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Wei Zhang<sup>✉️</sup>, Yan Wang, Qianyu Guo, Chenglong Zhang, Yangji He, Wenqiang Zhang<sup>✉️</sup></span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>AAAI Conference on Artificial Intelligence (AAAI), 2022</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2203.11652">Paper</a>][<a href="https://github.com/shuyonggao/PSOD"> Code </a>]</span>
+    </th>
+  </tr> 
+</table>
+
 
 News and Olds
 ------
