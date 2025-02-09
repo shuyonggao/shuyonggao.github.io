@@ -77,11 +77,26 @@ Preprints
 Selected Publications
 ------
 
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/top_down_sod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context </span><br>
+            <span style="font-weight:normal;font-size:16px"> Yicheng Song, <b>Shuyong Gao<sup>✉️</sup></b>, Haozhe Xing, and Yiting Cheng, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>ACM International Conference on Multimedia (ACM MM), 2023</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2310.09533">Paper</a>][<a href="https://github.com/rejoicesyc/STC"> Code </a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+
+
 Research Interests
 ------
 
 News and Olds
 ------
 
-News and Olds
-------
