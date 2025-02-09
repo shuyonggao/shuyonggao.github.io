@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. Before that, I received my bachelor and master degree and in mechanical engineering and automation from Qingdao University. 
+I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. Before that, I received my bachelor and master degree and in mechanical engineering and automation from Qingdao University. 我的研究兴趣包括
 <!--
 
 --> 
@@ -96,7 +96,7 @@ Selected Publications
       <img src="../paper_images/go_closer.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
-            <span style="font-size:18px">Go Closer To See Better: Feature SuperResolution Network for Camouflaged Object Detection </span><br>
+            <span style="font-size:18px">Go Closer to See Better: Camouflaged Object Detection via Object Area Amplification and Figure-Ground Conversion </span><br>
             <span style="font-weight:normal;font-size:16px"> Haozhe Xing, <b>Shuyong Gao<sup>✉️</sup></b>, Xujun Wei, Hao Tang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), 2022</em> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10065514">Paper</a>][<a href="https://github.com/Haozhe-Xing/SARNet"> Code </a>]</span>
