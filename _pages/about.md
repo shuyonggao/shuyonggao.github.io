@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. Before that, I received my bachelor and master degree and in mechanical engineering and automation from Qingdao University. 我的研究兴趣包括
+I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. Before that, I received my bachelor and master degree and in mechanical engineering and automation from Qingdao University. My research interests focused object recognition, generative AI, visual reasoning, and embodied intelligence.
+
 <!--
 
 --> 
