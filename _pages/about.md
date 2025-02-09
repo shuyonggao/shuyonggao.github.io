@@ -60,6 +60,20 @@ Preprints
 </table>
 
 
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/holistically_cod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models </span><br>
+            <span style="font-weight:normal;font-size:16px">Miaoyang He, Shuyong Gao<sup>✉️</sup>, Tsui Qin Mok, Weifeng Ge, Wenqiang Zhang<sup>✉️</sup></span><br>
+            <span style="font-weight:border;font-size:16px"> <em> arXiv preprint, 2025 </em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2501.04582">Paper</a>][<a> Code</a>][<a> Project Page </a>]</span>
+    </th>
+  </tr> 
+</table>
+
 Selected Publications
 ------
 
