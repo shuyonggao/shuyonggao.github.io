@@ -197,3 +197,32 @@ Selected Publications
     </th>
   </tr> 
 </table>
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/channel_sod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">CRRNet: Channel Relation Reasoning Network for Salient Object Detection </span><br>
+            <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Haozhe Xing, Chenglong Zhang, Wenqiang Zhang<sup>✉️</sup> </span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>China Intelligent Robotics Annual Conference, 2022</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://link.springer.com/chapter/10.1007/978-981-99-0301-6_2#citeas">Paper</a>][<a href="https://github.com/shuyonggao/CRRNet">Code</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/tiny_cod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Tinycod:Tiny and Effective Model for Camouflage Object Detection </span><br>
+            <span style="font-weight:normal;font-size:16px"> Haozhe Xing,  <b>Shuyong Gao<sup>✉️</sup></b>, Hao Tang, Tsui Qin Mok, Yanlan Kang,  Wenqiang Zhang<sup>✉️</sup> </span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>IEEE International Conference on Acoustics, Speech and Signal Processing, 2023</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/document/10095226">Paper</a>][<a href="https://github.com/Haozhe-Xing/TinyCOD?tab=readme-ov-file">Code</a>]</span>
+    </th>
+  </tr> 
+</table>
+
