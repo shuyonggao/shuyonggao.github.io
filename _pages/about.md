@@ -84,6 +84,7 @@ Preprints
 
 Selected Publications
 ------
+(✉️ indicates corresponding author, and † indicates equal contribution)
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
