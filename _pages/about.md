@@ -155,3 +155,45 @@ Selected Publications
     </th>
   </tr> 
 </table>
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/correspondence_medical.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Correspondence-based Generative Bayesian Deep Learning for semi-supervised volumetric medical image segmentation </span><br>
+            <span style="font-weight:normal;font-size:16px"> Yuzhou Zhao, Xinyu Zhou, Tongxin Pan, <b>Shuyong Gao<sup>✉️</sup></b>, Wenqiang Zhang </span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>Computerized Medical Imaging and Graphics (2024)</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611124000296">Paper</a>][<a href=" https://github.com/yumjoo/C-GBDL">Code</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/correspondence_medical.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Attention in attention for PET-CT modality consensus lung tumor segmentation </span><br>
+            <span style="font-weight:normal;font-size:16px"> Yuzhou Zhao, Xinyu Zhou, Haijing Guo, Qianyu Guo, Yan Zuo, Shaoli Song, <b>Shuyong Gao<sup>✉️</sup></b>, Wenqiang Zhang<sup>✉️</sup> </span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>IEEE International Conference on Multimedia and Expo (ICME), 2024</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10687909">Paper</a>][<a href="">Code</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/casting_defection.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">A Casting Surface Dataset and Benchmark for Subtle and Confusable Defect Detection in Complex Contexts </span><br>
+            <span style="font-weight:normal;font-size:16px"> Qishan Wang, Shuyong Gao, Li Xiong, Aili Liang, Kaidong Jiang, Wenqiang Zhang<sup>✉️</sup> </span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>IEEE Sensors Journal, 2024</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10687909">Paper</a>][<a href="https://github.com/18894269590/RSA">Code</a>]</span>
+    </th>
+  </tr> 
+</table>
