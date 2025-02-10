@@ -48,7 +48,7 @@ Preprints
             <span style="font-size:18px">P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision </span><br>
             <span style="font-weight:normal;font-size:16px">Junjie Hu, <b>Shuyong Gao<sup>✉️</sup></b>, Lingyi Hong, Qishan Wang, Yuzhou Zhao, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>arXiv preprint, 2024 (TNNLS under review)</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2412.19533">Paper</a>][<a>Code</a>][<a> Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a>Code</a>][<a> Project Page </a>]</span>
     </th>
   </tr> 
 </table>
@@ -142,4 +142,16 @@ Selected Publications
 </table>
 
 
-
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr>
+    <th width="40%" style="border: none;">
+      <img src="../paper_images/dual_sod.png" width="350"/>
+    </th>
+    <th style="text-align:left; border: none;" width="60%">
+            <span style="font-size:18px">Dual-Stream Network Based On Global Guidance for Salient Object Detection </span><br>
+            <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Qianyu Guo, Wei Zhang, Wenqiang Zhang<sup>✉️</sup>, Zhongwei Ji </span><br>
+            <span style="font-weight:border:;font-size:16px"> <em>IEEE International Conference on Acoustics, Speech and Signal Processing, 2021</em> </span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/document/9413702">Paper</a>][<a href="https://github.com/shuyonggao/DSGGN">Code</a>]</span>
+    </th>
+  </tr> 
+</table>
