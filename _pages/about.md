@@ -164,7 +164,7 @@ Selected Publications
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">Correspondence-based Generative Bayesian Deep Learning for semi-supervised volumetric medical image segmentation </span><br>
-            <span style="font-weight:normal;font-size:16px"> Yuzhou Zhao, Xinyu Zhou, Tongxin Pan, <b>Shuyong Gao<sup>✉️</sup></b>, Wenqiang Zhang </span><br>
+            <span style="font-weight:normal;font-size:16px"> Yuzhou Zhao, Xinyu Zhou, Tongxin Pan, <b>Shuyong Gao<sup>✉️</sup></b>, Wenqiang Zhang<sup>✉️</sup> </span><br>
             <span style="font-weight:border:;font-size:16px"> <em>Computerized Medical Imaging and Graphics (2024)</em> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611124000296">Paper</a>][<a href=" https://github.com/yumjoo/C-GBDL">Code</a>]</span>
     </th>
