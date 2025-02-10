@@ -48,7 +48,7 @@ Preprints
             <span style="font-size:18px">P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision </span><br>
             <span style="font-weight:normal;font-size:16px">Junjie Hu, <b>Shuyong Gao<sup>✉️</sup></b>, Lingyi Hong, Qishan Wang, Yuzhou Zhao, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>arXiv preprint, 2024 (TNNLS under review)</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a>Code</a>][<a> Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2412.19533">Paper</a>][<a>Code</a>]</span>
     </th>
   </tr> 
 </table>
@@ -62,7 +62,7 @@ Preprints
             <span style="font-size:18px">A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection </span><br>
             <span style="font-weight:normal;font-size:16px">Tsui Qin Mok<sup>†</sup>, <b>Shuyong Gao<sup>✉️†</sup></b>, Haozhe Xing, Miaoyang He, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border;font-size:16px"> <em> arXiv preprint, 2025 (IJCV under review) </em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2501.06038">Paper</a>][<a href="https://github.com/shuyonggao/HPGT_WSCOD"> Code</a>][<a> Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2501.06038">Paper</a>][<a href="https://github.com/shuyonggao/HPGT_WSCOD"> Code</a>]</span>
     </th>
   </tr> 
 </table>
@@ -77,7 +77,7 @@ Preprints
             <span style="font-size:18px">Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models </span><br>
             <span style="font-weight:normal;font-size:16px">Miaoyang He, <b>Shuyong Gao<sup>✉️</sup></b>, Tsui Qin Mok, Weifeng Ge, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border;font-size:16px"> <em> arXiv preprint, 2025 (TMM under review)</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2501.04582">Paper</a>][<a> Code</a>][<a> Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2501.04582">Paper</a>][<a> Code</a>]</span>
     </th>
   </tr> 
 </table>
