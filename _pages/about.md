@@ -192,7 +192,7 @@ Selected Publications
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">A Casting Surface Dataset and Benchmark for Subtle and Confusable Defect Detection in Complex Contexts </span><br>
-            <span style="font-weight:normal;font-size:16px"> Qishan Wang, Shuyong Gao, Li Xiong, Aili Liang, Kaidong Jiang, Wenqiang Zhang<sup>✉️</sup> </span><br>
+            <span style="font-weight:normal;font-size:16px"> Qishan Wang, <b>Shuyong Gao<sup>✉️</sup></b>, Li Xiong, Aili Liang, Kaidong Jiang, Wenqiang Zhang<sup>✉️</sup> </span><br>
             <span style="font-weight:border:;font-size:16px"> <em>IEEE Sensors Journal, 2024</em> </span><br>
             <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10502267">Paper</a>][<a href="https://github.com/18894269590/RSA">Code</a>]</span>
     </th>
