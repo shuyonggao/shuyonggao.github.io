@@ -159,7 +159,7 @@ Selected Publications
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%" style="border: none;">
-      <img src="../paper_images/correspondence_medical.png" width="350"/>
+      <img src="../paper_images/bayesian_medical.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">Correspondence-based Generative Bayesian Deep Learning for semi-supervised volumetric medical image segmentation </span><br>
@@ -173,7 +173,7 @@ Selected Publications
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%" style="border: none;">
-      <img src="../paper_images/correspondence_medical.png" width="350"/>
+      <img src="../paper_images/attention_petct.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">Attention in attention for PET-CT modality consensus lung tumor segmentation </span><br>
@@ -187,7 +187,7 @@ Selected Publications
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%" style="border: none;">
-      <img src="../paper_images/casting_defection.png" width="350"/>
+      <img src="../paper_images/casting_defect.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">A Casting Surface Dataset and Benchmark for Subtle and Confusable Defect Detection in Complex Contexts </span><br>
@@ -201,7 +201,7 @@ Selected Publications
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <th width="40%" style="border: none;">
-      <img src="../paper_images/channel_sod.png" width="350"/>
+      <img src="../paper_images/channel_reason.png" width="350"/>
     </th>
     <th style="text-align:left; border: none;" width="60%">
             <span style="font-size:18px">CRRNet: Channel Relation Reasoning Network for Salient Object Detection </span><br>
