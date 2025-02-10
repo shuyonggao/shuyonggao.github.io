@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. Before that, I received my bachelor and master degree and in mechanical engineering and automation from Qingdao University. My research interests focused object recognition, generative AI, visual reasoning, and embodied intelligence.
+I am currectly a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. Wenqiang Zhang. Before that, I received my bachelor and master degree and in mechanical engineering and automation from Qingdao University. My research interests focus object recognition, generative AI, visual reasoning, and embodied intelligence.
 
 <!--
 
@@ -194,7 +194,7 @@ Selected Publications
             <span style="font-size:18px">A Casting Surface Dataset and Benchmark for Subtle and Confusable Defect Detection in Complex Contexts </span><br>
             <span style="font-weight:normal;font-size:16px"> Qishan Wang, Shuyong Gao, Li Xiong, Aili Liang, Kaidong Jiang, Wenqiang Zhang<sup>✉️</sup> </span><br>
             <span style="font-weight:border:;font-size:16px"> <em>IEEE Sensors Journal, 2024</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10687909">Paper</a>][<a href="https://github.com/18894269590/RSA">Code</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://ieeexplore.ieee.org/abstract/document/10502267">Paper</a>][<a href="https://github.com/18894269590/RSA">Code</a>]</span>
     </th>
   </tr> 
 </table>
