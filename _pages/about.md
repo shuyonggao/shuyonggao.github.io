@@ -33,7 +33,7 @@ Preprints
             <span style="font-size:18px">MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection </span><br>
             <span style="font-weight:normal;font-size:16px"> <b>Shuyong Gao</b>, Yuang Feng, Qishan Wang, Lingyi Hong, Xinyu Zhou, Liu Fei, Yan Wang, Wenqiang Zhang<sup>✉️</sup></span><br>
             <span style="font-weight:border:;font-size:16px"> <em>arXiv preprint, 2025 (CVPR 2025 under review)</em> </span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="">Paper</a>][<a href="https://shuyonggao.github.io/MSVCOD"> Project Page </a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2502.13859">Paper</a>][<a href="https://shuyonggao.github.io/MSVCOD"> Project Page </a>]</span>
     </th>
   </tr> 
 </table>
