@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 I am a Postdoctoral Fellow (Shanghai Super Postdoctoral Fellow) at <a href="https://www.fudanroilab.com/"> Lab of Robotics Oriented Intelligence </a>, School of Computer Science, Fudan University, China, mentored by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. I received my Ph.D. degree from School of Computer Science, Fudan University, China, in Jan. 2023, advised by Prof. <a href="https://faet.fudan.edu.cn/e4/28/c23898a255016/page.htm"> Wenqiang Zhang </a>. 
+-->
+
+I am currently a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University (PolyU). I received my Ph.D. degree from the School of Computer Science, Fudan University, in Jan. 2023, advised by Prof. Wenqiang Zhang, where I also worked as a Postdoctoral Fellow (Shanghai Super Postdoc).
 
 <!--
 My research interests focus on object recognition, generative AI, visual reasoning, and embodied intelligence.
